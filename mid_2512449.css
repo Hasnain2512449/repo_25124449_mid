@@ -1,0 +1,26 @@
+header{
+    background-color: blue;
+}
+table{
+    margin: 5%;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aqua;
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+}
+tr{
+    border: 2px solid black;
+}
+th,td{
+    border: 2px solid black;
+}
+a{
+    color: red;
+}
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: grey;
+    background-color: antiquewhite;
+    text-align: center;
+}
